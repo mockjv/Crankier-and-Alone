@@ -356,3 +356,4 @@ MigrationBackup/
 !/.idea/.idea.*/.idea
 /.idea/.idea.*/.idea/*
 !/.idea/.idea.*/.idea/runConfigurations
+.idea
